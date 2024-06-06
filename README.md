@@ -1,4 +1,5 @@
 # Curso Digital: Git/Versionamento
 
 ## Gravando mudanças no repositório
-* novo comando git push
+* git push - enviar novas alterações
+* git pull - baixar novas alterações
